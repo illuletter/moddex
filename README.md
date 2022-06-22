@@ -10,8 +10,7 @@ This repository includes:
 1. Seychelles Intercommunitory Index 
 2. Subatomic, Uranium, Tuvalu 
 4. Flamingo Escort Inc. 
-5. Dr. Salazar 
-6. Repository 
+5. Repository 
 
 This repository also includes: 
 All of the current and future websites added to this repository is a part of the Moddex Group
